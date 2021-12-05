@@ -28,8 +28,16 @@ This research is about starting a business
 ### 5.1 Research questions
 
 
-1. 
-2. 
+1. How to setup a business?
+
+   - What is a good business idea?
+   - What is a business canvas model?
+
+2. How to get customer relationships?
+
+   - Where should you look for good customer relationships?
+   - Why are customer relationships important?
+   
 3. 
    
 
@@ -38,12 +46,17 @@ This research is about starting a business
 Below are all the methods we used for this research. We will also assign everything to the questions. We will be using the <a href="https://ictresearchmethods.nl/Methods">DOT</a> framework as mentioned above.
 
 - Literature study
+- Expert interview
+- Interview
+- Product review
 
 ### 7. Answers
 
-#### 1.
+#### 1. Setup
 
-#### 2.
+<img src="https://i.postimg.cc/1XH3tdxx/Business-model-canvas-JDS-development.png"/>
+
+#### 2. Customer relationships
 
 #### 3. 
 
