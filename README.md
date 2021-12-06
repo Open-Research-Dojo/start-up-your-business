@@ -38,9 +38,12 @@ This research is about starting a business
    - Where should you look for good customer relationships?
    - Why are customer relationships important?
    
-3. 
+3. How to deliver your first product or service to a customer?
+   - Which agile method are we using?
+   - What kind of testing are we using?
+   - What do we use for hosting?
+   - How do we deliver our product to the client?
    
-
 ### 6. Method
 
 Below are all the methods we used for this research. We will also assign everything to the questions. We will be using the <a href="https://ictresearchmethods.nl/Methods">DOT</a> framework as mentioned above.
