@@ -8,6 +8,8 @@ This research is about starting a business
 
 ## 2. Acknowledgments
 
+We would like to thank @Freerk and @Marijn for the expert interviews and the feedback we got from it.
+
 ## 3. Contents
 
 1. About
