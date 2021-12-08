@@ -36,7 +36,7 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
    - What is a business canvas model?
    - What to consider when setting up a business according to experts?
    - What is our business idea?
-   - What feedback and did we get from experts?
+   - What feedback did we get from experts?
 
 2. How to get customer relationships?
 
