@@ -51,10 +51,9 @@ This research is about starting a business
 
 Below are all the methods we used for this research. We will also assign everything to the questions. We will be using the <a href="https://ictresearchmethods.nl/Methods">DOT</a> framework as mentioned above.
 
-- Literature study
-- Expert interview
-- Interview
-- Product review
+- Literature study (First question)
+- Expert interview (First question)
+- Product review (First question)
 
 ## 7. Answers
 
