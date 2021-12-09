@@ -38,16 +38,21 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
    - What is our business idea?
    - What feedback did we get from experts?
 
-2. How to get customer relationships?
+2. How to obtain your first customers?
+
+   - What are ways to reach out to possible customers?
+   - Is social media a good way to find customers?
+
+3. How to get customer relationships?
 
    - Where should you look for good customer relationships?
    - Why are customer relationships important?
    
-3. How to deliver your first product or service to a customer?
-   - Which agile method are we using?
-   - What kind of testing are we using?
-   - What do we use for hosting?
+4. How to deliver your first product or service to a customer?
+
+   - What are good hosting options?
    - How do we deliver our product to the client?
+
    
 ## 6. Method
 
