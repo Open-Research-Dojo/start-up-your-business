@@ -45,9 +45,7 @@ This research is about starting a business
    
 4. How to deliver your first product or service to a customer?
 
-   - Which agile method are we using?
-   - What kind of testing are we using?
-   - What do we use for hosting?
+   - What are good hosting options?
    - How do we deliver our product to the client?
 
    
