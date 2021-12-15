@@ -135,17 +135,35 @@ our idea is a company that makes applications for customers. This is possible in
    > - With customer segment i would be a bit more specific and add for example: start-ups that want to have a site cheaply and quickly and easily.
    > - At key propositions i would also add: can deliver fast sites through formats.
 
+## 2 Getting your first customers
 
+### 2.1 Ways to find your first customers
 
+Here a some ways to find your first customers:
+- Make a list of people you have already met that could be interested in your products or services.  
+  > Do some research on who are most likely to be customers.
+- Search for local business that could be interested in your products or services.
+  > Local business could be potential customers but also can help you with finding customers
+- Show off what you have already made.
+  > This shows potential customers what you are capable of.
+- Build a website and make use of search engine optimization. 
+  > This way there is a chance a customer finds your business from a search engine.
 
+### 2.2 Social media
+Social media is also a good way to find your first customers. With social media it is possible to find potential customers and to advertise your business.
+With social media platforms like: [Linkedin](https://www.linkedin.com), [Instagram](https://www.instagram.com) and [Facebook](https://www.facebook.com) you can easily reach out to potential customers. 
 
-## 2. Customer relationships
+Also it is a good idea to setup your social media pages. So when a potential customer visits your page you want to earn their interest in your business. 
+With social media advertising it is possible to target specific audience. This way you can find potential customers that meet your market criteria.
 
-## 3. 
+## 3. Customer relationships
+
+## 4. 
 
 # 8. Conclusion
 
 # 9. Sources
 
-1. Petch, N. (2017, 4 maart). Five Signs That You Have A Great Business Idea. Entrepreneur. Geraadpleegd op 8 december 2021, van https://www.entrepreneur.com/article/290111 
-2. Business Model Canvas Explained | Enterprising Oxford. (2021). Business Model Canvas Explained. Geraadpleegd op 8 december 2021, van https://eship.ox.ac.uk/business-model-canvas-explained/
+1. Petch, N. (2017, 4 maart). Five Signs That You Have A Great Business Idea. Entrepreneur. Consulted on 8 december 2021, from https://www.entrepreneur.com/article/290111 
+2. Business Model Canvas Explained | Enterprising Oxford. (2021). Business Model Canvas Explained. Consulted on 8 december 2021, from https://eship.ox.ac.uk/business-model-canvas-explained/
+3. Lesonsky, R. L. (2019, 6 augustus). 8 Ways to Find Your First Customers. SBA. Consulted on 9 december 2021, from https://www.sba.gov/blog/8-ways-find-your-first-customers
