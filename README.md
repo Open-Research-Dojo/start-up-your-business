@@ -8,7 +8,7 @@ This research is about starting a business
 
 ## 2. Acknowledgments
 
-We would like to thank @Freerk and @Marijn for the expert interviews and the feedback we got from it.
+We would like to thank @Bart, @Freerk and @Marijn for the expert interviews and the feedback we got from it.
 
 ## 3. Contents
 
@@ -45,8 +45,10 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
 
 3. How to get customer relationships?
 
-   - Where should you look for good customer relationships?
-   - Why are customer relationships important?
+   - What is customer relationship?
+   - Why is customer relationship important?
+   - How to build a Rock-Solid customer relationship?
+   - Feedback Expert
    
 4. How to deliver your first product or service to a customer?
 
@@ -58,9 +60,10 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
 
 Below are all the methods we used for this research. We will also assign everything to the questions. We will be using the <a href="https://ictresearchmethods.nl/Methods">DOT</a> framework as mentioned above.
 
-- Literature study (First question)
-- Expert interview (First question)
-- Product review (First question)
+- Literature study (First question, third question)
+- Expert interview (First question, third question)
+- Product review (First question, third question)
+- Peer Review (third question)
 
 ## 7. Answers
 
@@ -156,8 +159,66 @@ With social media platforms like: [Linkedin](https://www.linkedin.com), [Instagr
 Also it is a good idea to setup your social media pages. So when a potential customer visits your page you want to earn their interest in your business. 
 With social media advertising it is possible to target specific audience. This way you can find potential customers that meet your market criteria.
 
-## 3. Customer relationships
+## 3. How to build and maintain customer relationships?
 
+
+Previously we talked about on how to get your first customers. As we already know there are some ways to find new customers and we have also seen that social media is a great tool to find new customers, but also to maintain customer relations.
+
+In todays digital world, customer have a lot to say, it takes just seconds for customer to say that your business and/or product is the best or the worst. I will give you more information on how to find customers and keep a good customer relationship.
+
+### 3.1 What is customer relationship?
+
+Customer relations refers to the process used by businesses to engage with customers and foster long-term relationships with them. Right from assisting customers with their day-to-day queries to creating long-term policies that lead to customer success, customer relations encompasses a lot of activities. When done right, it can lead to positive outcomes such as higher customer retention, increased customer lifetime value (CLV), and stronger customer relationships. (Cornell, 2021)
+
+### 3.2 Why is customer relationship important?
+
+A good customer relationship is important for a business, because it means that the people trust you and you can most likely call them your loyal customers. These loyal customers will repeatedly buy from your business, which is beneficial for an organization. For example, remember when you order pizza? You probably order from the same pizzeria every time, because you trust them and you are their loyal customer.
+
+### 3.3 How to build a Rock-Solid customer relationship?
+
+Building a good customer relation takes a lot effort, time, and requires you to establish trust with your customers. 
+
+Here are two ways to build a strong customer relationship:
+
+#### Customer Experience
+
+According to a study by Gartner, when it comes to making a purchase, 64% of customers find customer experience more important than price. Apple is a great example, the customer experience starts with opening the box, it takes a couple of seconds to open the box. That is all part of the customer experience and helps developing customer relations
+
+#### Customer Service
+
+According to Microsoft, 96% of consumers across the globe consider customer service as an important factor in their choice of loyalty to a brand. For example, When something goes not as intended you get angry and frustrated, you want help and go to the customer service, but the customer service is not adequate and you get even more frustrated and angry. The trust is gone and high chance of losing these customers, so a good customer service is important for the relation.
+
+Here are two more ways to build that relationship according to Cornell: 
+
+#### Be Willing to Exceed Expectations
+
+Customers today expect more than simply a product that works great or a service that helps them save money. Amidst such high expectations, you need to raise the bar on what your company offers and strive to exceed customer expectations. 
+
+<strong>Now, we understand that under-promise, and over-deliver isn’t always possible. However, when you do that, customers can’t help but keep coming back.</strong>
+
+There are a lot of ways to exceed customer expectations. For example, you can deliver a product or service faster than anticipated. Simply tell the customer that they can expect their product within 7 days and try to deliver it well before that. 
+
+#### Nothing Beats Personalized Experiences
+
+At the end of the day, customers buy from you as they are able to relate to your brand. It can be something as simple as the color of your logo or the values your business represents through social corporate responsibilities. 
+
+<strong>Every customer that engages with your brand is unique. A personalized customer experience will make them feel special in a crowded marketplace.</strong>
+
+To foster effective customer relations, get to know your customers and understand their likes or dislikes. Greet them by their names, communicate with them on the channels they prefer, and always remember their past interactions or activities. 
+
+Now, customers are different while some customers prefer short conversations, others can chat with anyone. Therefore, you can try to create customer personas and segment your customers based on their personalities.
+
+### 3.4 Feedback Expert
+   
+Bart Smeets studies International business in Maastricht I asked him to review this research. He accepted the review and gave me some feedback on my research.
+
+Feedback:
+
+	- Structure is great
+	- Content is good
+	- Good use of examples, especially the pizzeria example
+	- Use Grammarly for grammar check
+   
 ## 4. 
 
 # 8. Conclusion
@@ -167,3 +228,4 @@ With social media advertising it is possible to target specific audience. This w
 1. Petch, N. (2017, 4 maart). Five Signs That You Have A Great Business Idea. Entrepreneur. Consulted on 8 december 2021, from https://www.entrepreneur.com/article/290111 
 2. Business Model Canvas Explained | Enterprising Oxford. (2021). Business Model Canvas Explained. Consulted on 8 december 2021, from https://eship.ox.ac.uk/business-model-canvas-explained/
 3. Lesonsky, R. L. (2019, 6 augustus). 8 Ways to Find Your First Customers. SBA. Consulted on 9 december 2021, from https://www.sba.gov/blog/8-ways-find-your-first-customers
+4. Cornell, J. (2021, 17 december). Guide to Customer Relations: Definition, Benefits, Strategies & More. ProProfs Help Desk Blog. Consulted on 18 januari 2022, from https://www.proprofsdesk.com/blog/customer-relations/
