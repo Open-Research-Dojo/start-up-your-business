@@ -225,3 +225,4 @@ Feedback:
 1. Petch, N. (2017, 4 maart). Five Signs That You Have A Great Business Idea. Entrepreneur. Consulted on 8 december 2021, from https://www.entrepreneur.com/article/290111 
 2. Business Model Canvas Explained | Enterprising Oxford. (2021). Business Model Canvas Explained. Consulted on 8 december 2021, from https://eship.ox.ac.uk/business-model-canvas-explained/
 3. Lesonsky, R. L. (2019, 6 augustus). 8 Ways to Find Your First Customers. SBA. Consulted on 9 december 2021, from https://www.sba.gov/blog/8-ways-find-your-first-customers
+4. Cornell, J. (2021, 17 december). Guide to Customer Relations: Definition, Benefits, Strategies & More. ProProfs Help Desk Blog. Consulted on 18 januari 2022, from https://www.proprofsdesk.com/blog/customer-relations/
