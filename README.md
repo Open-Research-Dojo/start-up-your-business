@@ -8,7 +8,7 @@ This research is about starting a business
 
 ## 2. Acknowledgments
 
-We would like to thank @Freerk and @Marijn for the expert interviews and the feedback we got from it.
+We would like to thank @Bart, @Freerk and @Marijn for the expert interviews and the feedback we got from it.
 
 ## 3. Contents
 
@@ -60,9 +60,10 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
 
 Below are all the methods we used for this research. We will also assign everything to the questions. We will be using the <a href="https://ictresearchmethods.nl/Methods">DOT</a> framework as mentioned above.
 
-- Literature study (First question)
-- Expert interview (First question)
-- Product review (First question)
+- Literature study (First question, third question)
+- Expert interview (First question, third question)
+- Product review (First question, third question)
+- Peer Review (third question)
 
 ## 7. Answers
 
