@@ -45,8 +45,10 @@ We would like to thank @Freerk and @Marijn for the expert interviews and the fee
 
 3. How to get customer relationships?
 
-   - Where should you look for good customer relationships?
-   - Why are customer relationships important?
+   - What is customer relationship?
+   - Why is customer relationship important?
+   - How to build a Rock-Solid customer relationship?
+   - Feedback Expert
    
 4. How to deliver your first product or service to a customer?
 
